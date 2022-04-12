@@ -11,3 +11,20 @@
 # py version        : 3.10.2 (must run on 3.6 or higher)
 #==============================================================================
 import selenium
+
+
+def main():
+	scraper = Scraper()
+	scraper.run()
+
+
+class Scraper():
+	def __init__(self):
+		pass
+
+	def run():
+		pass
+
+
+if __name__ == "__main__":
+	main()
