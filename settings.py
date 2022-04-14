@@ -19,3 +19,7 @@ HEADLESS = False
 
 # Starting link to begin crawling invoices
 LINK = "https://secure1.mhelpdesk.com/Modules/Accounting/Invoices_Page.aspx?mhd_enc=x3bLL/enJTFdtFnkyW7OOA=="
+
+# Login Information for mHelpDesk (not implimented)
+EMAIL_ADDRESS = None
+PASSWORD = None
